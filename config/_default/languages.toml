@@ -18,16 +18,3 @@
     titleHome = "ڤدومن شيرايوکي"
     footer = "دکواساکن اوليه <a class=\"text-muted\" href=\"https://gohugo.io/\">هوݢَو</a> دان <a class=\"text-muted\" href=\"https://getdoks.org/\">دَوک‌س</a>"
     alertText = "<span dir='rtl'>ماسيه ددالم ڤمبيکينن يڠ امت ڤرلاهن<br>تاتالتق کانن ککيري ماسيه بلوم سمڤورنا</span>"
-
-
-# [en]
-#   languageName = "English"
-#   contentDir = "content/inggeris"
-#   weight = 20
-#   [en]
-#     languageISO = "EN"
-#     title = "Syirayuki's Guide"
-#     titleAddition = ""
-#     titleHome = "Syirayuki's Guide"
-#     footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
-#     alertText = "<span dir='rtl'>Still in a very-very slow update.</span>"
