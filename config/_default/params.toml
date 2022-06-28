@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Pedoman Syirayuki"
+title = "Rujukan Syirayuki"
 titleSeparator = "-"
 titleAddition = "Sumber Rujukan Anda!"
 description = "Terjemahan dan catatan B.Melayu Rumi/Jawi bagi pelbagai bahan rujukan maya."
@@ -13,7 +13,7 @@ description = "Terjemahan dan catatan B.Melayu Rumi/Jawi bagi pelbagai bahan ruj
 images = ["doks.png"]
 ogLocale = "ms-MY"
 domainTLD = "github.io"
-titleHome = "Pedoman Syirayuki"
+titleHome = "Rujukan Syirayuki"
 
 ## Twitter Cards
 twitterSite = "#"
@@ -22,7 +22,7 @@ twitterCreator = "@niskala5570"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Pedoman Syirayuki"
+schemaName = "Rujukan Syirayuki"
 schemaAuthor = "Niskala5570"
 schemaAuthorTwitter = "https://twitter.com/niskala5570"
 schemaAuthorLinkedIn = "#"
@@ -69,7 +69,7 @@ alertText = "Masih dalam pembikinan yang amat perlahan"
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/projeksyirayuki/pedoman"
+docsRepo = "https://github.com/projeksyirayuki/rujukan"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
