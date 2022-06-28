@@ -1,33 +1,33 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Pedoman Syirayuki"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Sumber Rujukan Anda!"
+description = "Terjemahan dan catatan B.Melayu Rumi/Jawi bagi pelbagai bahan rujukan maya."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
 images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+ogLocale = "ms-MY"
+domainTLD = "github.io"
+titleHome = "Pedoman Syirayuki"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "#"
+twitterCreator = "@niskala5570"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
+schemaName = "Pedoman Syirayuki"
+schemaAuthor = "Niskala5570"
+schemaAuthorTwitter = "https://twitter.com/niskala5570"
+schemaAuthorLinkedIn = "#"
+schemaAuthorGitHub = "https://github.com/niskala5570"
+schemaLocale = "ms-MY"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
@@ -48,35 +48,35 @@ themeColor = "#fff"
 # Images
 quality = 85
 bgColor = "#fff"
-landscapePhotoWidths = [900, 800, 700, 600, 500]
-portraitPhotoWidths = [800, 700, 600, 500]
+landscapePhotoWidths = [1920, 900, 800, 700, 600, 500]
+portraitPhotoWidths = [1200, 800, 700, 600, 500]
 lqipWidth = "20x"
-smallLimit = "300"
+smallLimit = "2000"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Dikuasakan oleh Github, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> dan <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Hak Cipta (c) 2021-2022 Projek Syirayuki"
 
 # Alert
-alert = false
+alert = true
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+alertText = "Masih dalam pembikinan yang amat perlahan"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/projeksyirayuki/pedoman"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["docs", "guides"]
+  sectionNav = ["aegisub"]
 
 [options]
   lazySizes = true
@@ -88,12 +88,12 @@ lastMod = false
   breadCrumb = false
   highLight = true
   kaTex = false
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
-  fullWidth = false
+  fullWidth = true
   navbarSticky = true
 
 [menu]
   [menu.section]
-    auto = true
+    auto = false
     collapsibleSidebar = true

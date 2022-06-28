@@ -1,25 +1,33 @@
-[en]
-  languageName = "English"
-  contentDir = "content/en"
+[ms]
+  languageName = "Rumi"
+  contentDir = "content/rumi"
   weight = 10
-  [en.params]
-    languageISO = "EN"
+  [ms.params]
+    languageISO = "MY"
 
-[de]
-  languageName = "German"
-  contentDir = "content/de"
+
+[ms-Jawi]
+  languageName = "جاوي"
+  contentDir = "content/jawi"
+  languagedirection = 'rtl'
   weight = 15
-  [de.params]
-    languageISO = "DE"
+  [ms-Jawi.params]
+    languageISO = "JW"
+    title = "ڤدومن شيرايوکي"
+    titleAddition = "سومبر روجوعن اندا!"
+    titleHome = "ڤدومن شيرايوکي"
+    footer = "دکواساکن اوليه <a class=\"text-muted\" href=\"https://gohugo.io/\">هوݢَو</a> دان <a class=\"text-muted\" href=\"https://getdoks.org/\">دَوک‌س</a>"
+    alertText = "<span dir='rtl'>ماسيه ددالم ڤمبيکينن يڠ امت ڤرلاهن<br>تاتالتق کانن ککيري ماسيه بلوم سمڤورنا</span>"
 
-[nl]
-  languageName = "Nederlands"
-  contentDir = "content/nl"
-  weight = 20
-  [nl.params]
-    languageISO = "NL"
-    titleAddition = "Modern documentatie-thema"
-    description = "Doks is een Hugo-thema waarmee je moderne documentatie-websites kunt bouwen die veilig, snel en klaar voor SEO zijn — standaard."
-    titleHome = "Doks thema"
-    footer = "Mogelijk gemaakt door <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, en <a href=\"https://getdoks.org/\">Doks</a>"
-    alertText = "Introductie van het Doks-kinderthema, verschillende DX + UX-updates en meer! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Bekijk Doks v0.2</a>"
+
+# [en]
+#   languageName = "English"
+#   contentDir = "content/inggeris"
+#   weight = 20
+#   [en]
+#     languageISO = "EN"
+#     title = "Syirayuki's Guide"
+#     titleAddition = ""
+#     titleHome = "Syirayuki's Guide"
+#     footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+#     alertText = "<span dir='rtl'>Still in a very-very slow update.</span>"
