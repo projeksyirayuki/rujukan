@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doks.netlify.app/sitemap.xml
+Sitemap: https://projeksyirayuki.github.io/rujukan/sitemap.xml
