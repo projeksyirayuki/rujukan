@@ -1,17 +1,19 @@
-baseurl = "https://doks.netlify.app/"
-canonifyURLs = false
+baseurl = "https://projeksyirayuki.github.io/rujukan"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+languageCode = "ms-MY"
 paginate = 7
 rssLimit = 10
+ignoreErrors = ["image-not-found"]
+timeout = "60000"
 
 # Multilingual
-defaultContentLanguage = "en"
-disableLanguages = ["de", "nl"]
+defaultContentLanguage = "ms"
+disableLanguages = ["ms-Jawi", "nl"]
 # defaultContentLanguageInSubdir = true
 
 # add redirects/headers
