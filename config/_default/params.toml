@@ -75,8 +75,8 @@ docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
-[sections]
-  sectionNav = ["aegisub"]
+# [sections]
+#   sectionNav = ["aegisub"]
 
 [options]
   lazySizes = true

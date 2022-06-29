@@ -13,7 +13,7 @@ timeout = "60000"
 
 # Multilingual
 defaultContentLanguage = "ms"
-disableLanguages = ["ms-Jawi", "nl"]
+disableLanguages = ["#", "nl"]
 # defaultContentLanguageInSubdir = true
 
 # add redirects/headers
