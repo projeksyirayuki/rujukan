@@ -6,12 +6,12 @@
     languageISO = "MY"
 
 
-[ms-Jawi]
+[ms-arab]
   languageName = "جاوي"
   contentDir = "content/jawi"
   languagedirection = 'rtl'
   weight = 15
-  [ms-Jawi.params]
+  [ms-arab.params]
     languageISO = "JW"
     title = "ڤدومن شيرايوکي"
     titleAddition = "سومبر روجوعن اندا!"

@@ -11,7 +11,7 @@ description = "Terjemahan dan catatan B.Melayu Rumi/Jawi bagi pelbagai bahan ruj
 
 ## Open Graph
 images = ["doks.png"]
-ogLocale = "ms-MY"
+ogLocale = "ms"
 domainTLD = "github.io"
 titleHome = "Rujukan Syirayuki"
 
@@ -27,7 +27,7 @@ schemaAuthor = "Niskala5570"
 schemaAuthorTwitter = "https://twitter.com/niskala5570"
 schemaAuthorLinkedIn = "#"
 schemaAuthorGitHub = "https://github.com/niskala5570"
-schemaLocale = "ms-MY"
+schemaLocale = "ms"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
@@ -75,8 +75,8 @@ docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
-# [sections]
-#   sectionNav = ["aegisub"]
+[sections]
+  sectionNav = ["aegisub"]
 
 [options]
   lazySizes = true

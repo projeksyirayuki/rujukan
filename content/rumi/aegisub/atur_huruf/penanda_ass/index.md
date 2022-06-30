@@ -45,7 +45,7 @@ Dalam mod membalut yang lain, ini diganti dengan jarak biasa.
 
 Memasukkan pemisah baris, tanpa menghiraukan tetapan mod membalut.
 
-> **Ingat, ini adalah N besar.**
+{{< alert icon="👉" text="Ingat, ini adalah N besar." />}}
 
 ### Jarak Kasar (Hard space)
 

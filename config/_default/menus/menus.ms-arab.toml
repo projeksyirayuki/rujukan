@@ -1,0 +1,138 @@
+[[main]] # Induk Wiki
+  name = "ويکي"
+  url = "#"
+  weight = 10
+
+  [[main]] # Wiki > AegiWiki
+    name = "ايݢيسب"
+    weight = 10
+    identifier = "aegi-wiki"
+    url = "/aegisub/permulaan/"
+    parent = "ويکي"
+    pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
+
+  # [[main]] # Wiki > KaiWiki
+  #   name = "کاينوت"
+  #   weight = 15
+  #   identifier = "kai-wiki"
+  #   url = "/kainote/"
+  #   parent = "ويکي"
+
+  # [[main]] # Wiki > PyonFX
+  #   name = "ڤيون‌ايفيک"
+  #   weight = 20
+  #   identifier = "pyon-wiki"
+  #   url = "/pyonfx/"
+  #   parent = "ويکي"
+
+#-----------------------------#
+
+# [[main]] # Induk Jawi
+#   name = "جاوي"
+#   url = "/jawi/"
+#   weight = 15
+
+#   [[main]] # Jawi > Pasuan
+#     name = "ڤاسوان ايت فون"
+#     weight = 20
+#     identifier = "pasuan-jawi"
+#     url = "/jawi/pasuan/"
+#     parent = "جاوي"
+
+#-----------------------------#
+
+# [[main]] # Induk Lain2
+#   name = "لاٴين٢"
+#   url = "/lain/"
+#   weight = 20
+
+#   [[main]] # Lain2 > Entah
+#     name = "انــته"
+#     weight = 20
+#     identifier = "entah-lain2"
+#     url = "/lain/entah/"
+#     parent = "لاٴين"
+
+#-----------------------------#
+
+# [[main]]
+#   name = "چاتتن"
+#   url = "/catatan/"
+#   weight = 25
+
+#-----------------------------#
+
+[[social]] # Medsos Kanan
+  name = "ݢيتهب"
+  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
+  url = "https://github.com/projeksyirayuki/"
+  post = "v0.1.0"
+  weight = 10
+
+#[[social]] # Medsos Kanan
+#  name = "Twitter"
+#  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-twitter\"><path d=\"M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z\"></path></svg>"
+#  url = "https://twitter.com/getdoks"
+#  weight = 20
+
+[[social]]
+  name = "ديسکورد"
+  pre = '<svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="discord" class="svg-inline--fa fa-discord" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="24" height="24"><path fill="currentColor" d="M524.5 69.84a1.5 1.5 0 0 0 -.764-.7A485.1 485.1 0 0 0 404.1 32.03a1.816 1.816 0 0 0 -1.923 .91 337.5 337.5 0 0 0 -14.9 30.6 447.8 447.8 0 0 0 -134.4 0 309.5 309.5 0 0 0 -15.14-30.6 1.89 1.89 0 0 0 -1.924-.91A483.7 483.7 0 0 0 116.1 69.14a1.712 1.712 0 0 0 -.788 .676C39.07 183.7 18.19 294.7 28.43 404.4a2.016 2.016 0 0 0 .765 1.375A487.7 487.7 0 0 0 176 479.9a1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.1 430.4a1.86 1.86 0 0 0 -1.019-2.588 321.2 321.2 0 0 1 -45.87-21.85 1.885 1.885 0 0 1 -.185-3.126c3.082-2.309 6.166-4.711 9.109-7.137a1.819 1.819 0 0 1 1.9-.256c96.23 43.92 200.4 43.92 295.5 0a1.812 1.812 0 0 1 1.924 .233c2.944 2.426 6.027 4.851 9.132 7.16a1.884 1.884 0 0 1 -.162 3.126 301.4 301.4 0 0 1 -45.89 21.83 1.875 1.875 0 0 0 -1 2.611 391.1 391.1 0 0 0 30.01 48.81 1.864 1.864 0 0 0 2.063 .7A486 486 0 0 0 610.7 405.7a1.882 1.882 0 0 0 .765-1.352C623.7 277.6 590.9 167.5 524.5 69.84zM222.5 337.6c-28.97 0-52.84-26.59-52.84-59.24S193.1 219.1 222.5 219.1c29.67 0 53.31 26.82 52.84 59.24C275.3 310.1 251.9 337.6 222.5 337.6zm195.4 0c-28.97 0-52.84-26.59-52.84-59.24S388.4 219.1 417.9 219.1c29.67 0 53.31 26.82 52.84 59.24C470.7 310.1 447.5 337.6 417.9 337.6z"></path></svg>'
+  url = "https://discord.gg/3JKbgVb"
+  weight = 20
+
+#-----------------------------#
+
+[[aegisub]]
+  name = "ڤرمولاٴن"
+  weight = 10
+  identifier = "permulaan"
+  url = "/aegisub/permulaan/"
+
+[[aegisub]]
+  name = "ڤڠنلن🚧"
+  weight = 20
+  identifier = "pengenalan"
+  url = "/aegisub/pengenalan/"
+
+[[aegisub]]
+  name = "ساري کات🚧"
+  weight = 30
+  identifier = "sari_kata"
+  url = "/aegisub/sari_kata/"
+
+[[aegisub]]
+  name = "اتور حروف🚧"
+  weight = 40
+  identifier = "atur_huruf"
+  url = "/aegisub/atur_huruf/"
+
+[[aegisub]]
+  name = "ماس🚧"
+  weight = 50
+  identifier = "masa"
+  url = "/aegisub/masa/"
+
+[[aegisub]]
+  name = "اٴوتوماسي🚧"
+  weight = 60
+  identifier = "automasi"
+  url = "/aegisub/automasi/"
+
+[[aegisub]]
+  name = "لاٴين٢🚧"
+  weight = 60
+  identifier = "lain-lain"
+  url = "/aegisub/lain_lain/"
+
+#-----------------------------#
+
+[[footer]] # Kaki, Kanan
+  name = "اکن دبوات"
+  url = "/pengaki/akan_dibuat"
+  weight = 5
+
+[[footer]] # Kaki, Kanan
+  name = "روجوعن"
+  url = "/pengaki/akan_dibuat"
+  weight = 10
